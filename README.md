@@ -1,31 +1,7 @@
 <html>
-<head>
-<style type="text/css">
-<!--
-BODY{ background-color : #ffffff;}
-TABLE{
-font-size : 11px;
-line-height : 18px;
-letter-spacing : 1px;
-}
-A{color : black;text-decoration : none;}
-A:HOVER{color : red;border-bottom-width : 2px;border-bottom-style : dotted;border-bottom-color : #800000;}
--->
-  </style>
-</head>
+<head></head>
 <body>
 <center>
-<table bgcolor="#ffffff" cellspacing="2" width="780">
-  <tbody>
-    <tr>
-      <td><!-- page header -->
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody>
-          <tr>
-            <td width="3"></td>
-            <td>
-            <p>&nbsp;</p>
-<!-- Body come here-->
             <table style="border-collapse: collapse; width: 90%;"
  border="0" cellpadding="0" cellspacing="0">
               <tbody>
@@ -502,19 +478,5 @@ Source</td>
           </tr>
         </tbody>
       </table>
-<!--page tail -->
-      <table cellspacing="0" width="100%">
-        <tbody>
-          <tr>
-            <td align="center" height="40" valign="top"><font
- style="font-size: 12px; color: rgb(82, 82, 82);">By ...</font></td>
-          </tr>
-        </tbody>
-      </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</center>
 </body>
 </html>
