@@ -25,49 +25,6 @@ A:HOVER{color : red;border-bottom-width : 2px;border-bottom-style : dotted;borde
   <tbody>
     <tr>
       <td><!-- page header -->
-      <table cellspacing="2" width="100%">
-        <tbody>
-          <tr>
-            <td colspan="8" style="color: rgb(255, 255, 255);"
- height="60">Homepage
-Logo</td>
-          </tr>
-          <tr>
-            <td style="border: 1px solid black; color: white;"
- align="center" bgcolor="#660000"><a href="index.html" target="_self">Home</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="index-jp.html" target="_self">Japanese
-Ver</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="index-cn.html">Chinese Ver</a><br>
-            </td>
-            <td style="border: 1px solid black;" align="center"><a
- href="research/index.html" target="_self">Research</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="spatialx/index.html" target="_self">Spatialx
-GIS</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="VRMine/index.html" target="_self">VRMine</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="mailto:spatialx@hotmail.com">Contact</a></td>
-            <td style="border: 1px solid black;" align="center"><a
- href="mailto:spatialx@hotmail.com"><br>
-            </a></td>
-          </tr>
-          <tr>
-            <td colspan="8"> <img
- style="border: 0px solid ; height: 2px;" alt=""
- src="images/image_sen.gif"></td>
-          </tr>
-          <tr>
-            <td colspan="8" height="20">
-            <p><img
- style="border: 0px solid ; width: 11px; height: 10px;" alt=""
- src="images/image_yajirushi.gif"> Research</p>
-            </td>
-          </tr>
-        </tbody>
-      </table>
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
         <tbody>
           <tr>
