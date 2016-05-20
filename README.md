@@ -1,17 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <meta content="text/html; charset=Shift_JIS" http-equiv="Content-Type">
-  <meta content="text/css" http-equiv="Content-Style-Type">
-  <title>X...</title>
-  <link rel="shortcut icon" href="./Favicon.ico" type="image/x-icon">
-  <link rel="icon" href="./Favicon.ico" type="image/x-icon">
-  <style type="text/css">
+<style type="text/css">
 <!--
 BODY{ background-color : #ffffff;}
 TABLE{
-font-size : 13px;
-line-height : 22px;
+font-size : 11px;
+line-height : 18px;
 letter-spacing : 1px;
 }
 A{color : black;text-decoration : none;}
